@@ -1,0 +1,8 @@
+###creeate
+POST  http://localhost:3000/messages/store:
+content-Type: application/json
+    {
+        "title": 3,
+        "body": "diuuhud"
+     }
+  
